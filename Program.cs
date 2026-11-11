@@ -28,7 +28,7 @@ class Program
         {
             Console.Clear();
             Console.WriteLine("=== EMPLOYEE PAYROLL & HR MANAGEMENT SYSTEM ===");
-            Console.WriteLine("1. Create (Add Employee)");
+            Console.WriteLine("1. Register New Employee");
             Console.WriteLine("2. Read (View All Employees)");
             Console.WriteLine("3. Search / Filter (LINQ)");
             Console.WriteLine("4. Update Employee");
