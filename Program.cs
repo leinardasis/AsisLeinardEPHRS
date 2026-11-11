@@ -28,7 +28,7 @@ class Program
         {
             Console.Clear();
             Console.WriteLine("=== EMPLOYEE PAYROLL & HR MANAGEMENT SYSTEM ===");
-            Console.WriteLine("1. Create (Add Employee)");
+            Console.WriteLine("1. Add New Employee Record");
             Console.WriteLine("2. Read (View All Employees)");
             Console.WriteLine("3. Search / Filter (LINQ)");
             Console.WriteLine("4. Update Employee");
@@ -175,7 +175,7 @@ class Program
             Console.WriteLine($"{emp.Id,-5} {fullName,-20} {emp.Department,-12} {emp.JobTitle,-18} {emp.MonthlySalary,10:C} {emp.TaxRate,-6:P0} {emp.HireDate,-10:yyyy-MM-dd} {emp.IsActive,-6} {emp.Email,-20}");
         }
     }
-    
+
     static void UpdateEmployee()
     {
         ReadEmployees();
