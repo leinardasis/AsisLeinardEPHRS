@@ -1,0 +1,16 @@
+C:\Users\Leinard Asis\OneDrive\Documents\YEAR3_SEM1\APPDEV\EmployeeManager\bin\Debug\net11.0\EmployeeManager.exe
+C:\Users\Leinard Asis\OneDrive\Documents\YEAR3_SEM1\APPDEV\EmployeeManager\bin\Debug\net11.0\EmployeeManager.deps.json
+C:\Users\Leinard Asis\OneDrive\Documents\YEAR3_SEM1\APPDEV\EmployeeManager\bin\Debug\net11.0\EmployeeManager.runtimeconfig.json
+C:\Users\Leinard Asis\OneDrive\Documents\YEAR3_SEM1\APPDEV\EmployeeManager\bin\Debug\net11.0\EmployeeManager.runtimeconfig.dev.json
+C:\Users\Leinard Asis\OneDrive\Documents\YEAR3_SEM1\APPDEV\EmployeeManager\bin\Debug\net11.0\EmployeeManager.dll
+C:\Users\Leinard Asis\OneDrive\Documents\YEAR3_SEM1\APPDEV\EmployeeManager\bin\Debug\net11.0\EmployeeManager.pdb
+C:\Users\Leinard Asis\OneDrive\Documents\YEAR3_SEM1\APPDEV\EmployeeManager\obj\Debug\net11.0\EmployeeManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leinard Asis\OneDrive\Documents\YEAR3_SEM1\APPDEV\EmployeeManager\obj\Debug\net11.0\EmployeeManager.AssemblyInfoInputs.cache
+C:\Users\Leinard Asis\OneDrive\Documents\YEAR3_SEM1\APPDEV\EmployeeManager\obj\Debug\net11.0\EmployeeManager.AssemblyInfo.cs
+C:\Users\Leinard Asis\OneDrive\Documents\YEAR3_SEM1\APPDEV\EmployeeManager\obj\Debug\net11.0\EmployeeManager.csproj.CoreCompileInputs.cache
+C:\Users\Leinard Asis\OneDrive\Documents\YEAR3_SEM1\APPDEV\EmployeeManager\obj\Debug\net11.0\EmployeeManager.dll
+C:\Users\Leinard Asis\OneDrive\Documents\YEAR3_SEM1\APPDEV\EmployeeManager\obj\Debug\net11.0\refint\EmployeeManager.dll
+C:\Users\Leinard Asis\OneDrive\Documents\YEAR3_SEM1\APPDEV\EmployeeManager\obj\Debug\net11.0\EmployeeManager.pdb
+C:\Users\Leinard Asis\OneDrive\Documents\YEAR3_SEM1\APPDEV\EmployeeManager\obj\Debug\net11.0\EmployeeManager.genruntimeconfig.cache
+C:\Users\Leinard Asis\OneDrive\Documents\YEAR3_SEM1\APPDEV\EmployeeManager\obj\Debug\net11.0\ref\EmployeeManager.dll
+C:\Users\Leinard Asis\OneDrive\Documents\YEAR3_SEM1\APPDEV\EmployeeManager\obj\Debug\net11.0\Employee.E292E15C.Up2Date
